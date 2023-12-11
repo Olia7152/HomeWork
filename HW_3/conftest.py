@@ -1,6 +1,3 @@
-import datetime
-import os.path
-
 import pytest
 import yaml
 from HW_2.task_1 import find_text
